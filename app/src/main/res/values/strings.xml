@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Dia Dia Dia Sempurna</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_setting">Pengaturan</string>
+    <string name="action_home">Daftar Isi</string>
+    <string name="action_bookmark">Penanda</string>
+    <string name="action_share">Bagikan</string>
+    <string name="action_writer">Penulis</string>
+    <string name="action_about">Tentang</string>
+    <string name="setting_screen">Tetap Menyala</string>
+    <string name="setting_mode">Mode Malam</string>
+    <string name="setting_size">Ukuran Huruf</string>
+    <string name="setting_warna">Warna Huruf</string>
+    <string name="about_teks">Aplikasi ini dibuat untuk memenuhi syarat kelulusan dalam program Indonesia Android Kejar.
+        Indonesia Android Kejar adalah program yang di inisiasi oleh Google Developers untuk mendukung developers indonesia
+        dalam mengembangkan aplikasi mobile melalui pembelajaran online di udacity dan pertemuan offline (study group)
+        dengan komunitas lokal. Dan saya saat ini bergabung di beginner class dengan mentor: Muhamad Ginanjar yang
+        di selenggarakan pada tanggal 29-30 Juli 2017, bertempat di Universitas Pelita Bangsa.\nDeveloped By:\nMuhammad Rohmani</string>
+
+    <string-array name="array_size_font">
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="array_color_font">
+        <item>white</item>
+        <item>black</item>
+        <item>blue</item>
+        <item>yelow</item>
+        <item>red</item>
+    </string-array>
+</resources>
